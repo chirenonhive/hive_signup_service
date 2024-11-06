@@ -38,7 +38,7 @@ We'd love to see how you use and improve this project, but remember: cryptocurre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hive-signup-service.git
+git clone https://github.com/chirenonhive/hive-signup-service.git
 cd hive-signup-service
 ```
 
