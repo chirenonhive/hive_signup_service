@@ -1,0 +1,21 @@
+{
+    "name": "hive-signup-service",
+    "version": "1.0.0",
+    "description": "Hive account creation service with free and paid tiers",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js",
+      "dev": "nodemon src/server.js"
+    },
+    "dependencies": {
+      "@hiveio/dhive": "^1.2.7",
+      "express": "^4.18.2",
+      "sqlite3": "^5.1.6",
+      "sqlite": "^5.0.1",
+      "dotenv": "^16.3.1",
+      "node-fetch": "^2.7.0"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.2"
+    }
+  }
